@@ -1,0 +1,5 @@
+{
+    "version": "1.9.2",
+    "archive": "RELEASE-1.92.zip",
+    "description": "[Fixed] Cart total & promocode issue when item cancel in order. <br>[Fixed] User role (Admin, Seller, Delivery Boy) login issue. <br>[Fixed] Manage products in Seller panel. <br>[Fixed] Cash collection in Delivey boy section. <br>[Improvement] Featured section in Admin panel."
+}
